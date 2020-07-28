@@ -1,6 +1,6 @@
 # indian_cities
 
-A new Flutter project.
+<img src="example.gif" width=250 align=right>
 
 ## Getting Started
 
